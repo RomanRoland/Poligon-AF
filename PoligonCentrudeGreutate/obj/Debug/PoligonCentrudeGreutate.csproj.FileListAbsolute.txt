@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\universitate\PoligonCentrudeGreutate\PoligonCentrudeGreutate\bin\Debug\PoligonCentrudeGreutate.exe.config
+C:\Users\LENOVO\Desktop\universitate\PoligonCentrudeGreutate\PoligonCentrudeGreutate\bin\Debug\PoligonCentrudeGreutate.exe
+C:\Users\LENOVO\Desktop\universitate\PoligonCentrudeGreutate\PoligonCentrudeGreutate\bin\Debug\PoligonCentrudeGreutate.pdb
+C:\Users\LENOVO\Desktop\universitate\PoligonCentrudeGreutate\PoligonCentrudeGreutate\obj\Debug\PoligonCentrudeGreutate.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\universitate\PoligonCentrudeGreutate\PoligonCentrudeGreutate\obj\Debug\PoligonCentrudeGreutate.Form1.resources
+C:\Users\LENOVO\Desktop\universitate\PoligonCentrudeGreutate\PoligonCentrudeGreutate\obj\Debug\PoligonCentrudeGreutate.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\universitate\PoligonCentrudeGreutate\PoligonCentrudeGreutate\obj\Debug\PoligonCentrudeGreutate.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\universitate\PoligonCentrudeGreutate\PoligonCentrudeGreutate\obj\Debug\PoligonCentrudeGreutate.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\universitate\PoligonCentrudeGreutate\PoligonCentrudeGreutate\obj\Debug\PoligonCentrudeGreutate.exe
+C:\Users\LENOVO\Desktop\universitate\PoligonCentrudeGreutate\PoligonCentrudeGreutate\obj\Debug\PoligonCentrudeGreutate.pdb
